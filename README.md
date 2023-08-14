@@ -4,5 +4,5 @@
 - Diary Lists
 <br/><br/>
 
-#### ✏️ Please explore my project by clicking the URL as below. 
+#### ✏️ Please explore my project by clicking the URL below. 
 https://hattie-react-emotion-diary.web.app/
