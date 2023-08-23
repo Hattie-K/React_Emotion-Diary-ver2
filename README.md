@@ -1,7 +1,9 @@
 # [React] Emotion Diary 😄 (ver.2)
-<br/>
-- Diary with Various Emotion Icons and Simple Design<br/>
-- Diary Lists
+
+- Diary with various emotion icons and simple design
+- Diary lists
+- You could preview screenshots in the 'preview' folder.
+- The code was written by BM, during the React course of winterlood.
 <br/><br/>
 
 #### ✏️ Please explore my project by clicking the URL below. 
